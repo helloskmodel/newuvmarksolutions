@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 28px 48px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.navbar nav {
+  display: flex;
+  gap: 35px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #111111;
+}
+.logo img {
+  margin-top: -13px;
+  height: 60px;
+  width: auto;
+  display: block;
+}
